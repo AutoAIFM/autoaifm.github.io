@@ -1,0 +1,12 @@
+- name: Tome Eftimov
+  affiliation: Jožef Stefan Institute, Slovenia
+  bio: >
+    Senior researcher at the Computer Systems Department of the Jožef Stefan Institute, Slovenia. Tome is vice-chair of the IEEE Computational Intelligence Society’s Task Force on Automated Algorithm Design, Configuration, and Selection. His research encompasses statistical data analysis, natural language processing, machine learning, and information theory.
+  topic: TBD
+  img: tome_eftimov.jpg
+- name: Carola Doerr
+  affiliation: CNRS research director at Sorbonne University, France
+  bio: >
+    CNRS research director at Sorbonne University, France. Carola's main research activities are in the analysis of black-box optimisation algorithms, both by mathematical and by empirical means. She is associate editor of IEEE Transactions on Evolutionary Computation, ACM Transactions on Evolutionary Learning and Optimisation (TELO), and the Evolutionary Computation journal.
+  topic: TBD
+  img: carola_doerr.jpg

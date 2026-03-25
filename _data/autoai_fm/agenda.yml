@@ -1,0 +1,20 @@
+- time: 8:30-9:00
+  session: Gathering & Coffee
+- time: 9:00-9:15
+  session: Opening
+- time: 9:15-10:00
+  session: "Keynote: Tome Eftimov"
+- time: 10:00-10:30
+  session: Oral presentations I
+- time: 10:30-12:00
+  session: Poster session I & Coffee break
+- time: 12:00-13:30
+  session: Lunch Break
+- time: 13:30-14:15
+  session: "Keynote: Carola Doerr"
+- time: 14:15-15:45
+  session: Oral presentations II
+- time: 15:45-17:15
+  session: Poster session II & Coffee break
+- time: 17:15-17:30
+  session: Closing remarks

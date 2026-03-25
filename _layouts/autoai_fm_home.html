@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+{% include 2016_data/head.html %}
+
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-default-color navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="/">{{ site.data.autoai_fm.info.acronym }}</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a class="page-scroll" href="#intro">About</a></li>
+                    <li><a class="page-scroll" href="#speakers">Speakers</a></li>
+                    <li><a class="page-scroll" href="#submission">Submission</a></li>
+                    <li><a class="page-scroll" href="#agenda">Schedule</a></li>
+                    <li><a class="page-scroll" href="#organizers">Organizers</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading">{{ site.data.autoai_fm.info.acronym }}<br></div>
+                <div class="intro-lead-in">{{ site.data.autoai_fm.info.title }}</div>
+                <div class="intro-lead-in">{{ site.data.autoai_fm.info.conference }}</div>
+                <a href="#intro" class="page-scroll btn btn-xl">Learn More</a>
+            </div>
+        </div>
+    </header>
+
+    {% include autoai_fm/intro.html %}
+    {% include autoai_fm/speakers.html %}
+    {% include autoai_fm/submission.html %}
+    {% include autoai_fm/agenda.html %}
+    {% include autoai_fm/organizers.html %}
+
+    {% include 2016_data/footer.html %}
+    {% include 2016_data/js.html %}
+
+</body>
+
+</html>

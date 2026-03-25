@@ -1,0 +1,10 @@
+title: "AutoAI-FM: AutoAI meets Foundation Models"
+acronym: AutoAI-FM
+conference: IJCAI-ECAI 2026
+date: "TBD" # The LaTeX says 6/2 AoE is deadline, but workshop date is usually later.
+location: "TBD"
+audience_size: 50
+length: 1 day
+description: >
+  Automated artificial intelligence (AutoAI) comprises meta-algorithmic methods that improve performance by, for example, automatically selecting, configuring, designing or explaining AI algorithms for a given task or problem distribution.
+  This workshop focuses on the intersection of AutoAI and foundation models.
