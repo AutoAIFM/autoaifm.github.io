@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Call for Papers"
+    url: /cfp/
+  - title: "Organisers"
+    url: /organisers/
