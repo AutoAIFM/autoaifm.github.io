@@ -1,45 +1,48 @@
-<!-- Submission Guidelines -->
-<section id="submission" class="bg-light-gray">
+<!-- Submission Guidelines / Call for Papers -->
+<section id="submission" class="bg-light-gray" style="text-align: left;">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Submission Guidelines</h2>
+                <h2 class="section-heading">Call for Papers</h2>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <p>The workshop accepts the following submission types:</p>
-                <ul>
-                    <li><strong>Full papers:</strong> Up to 7 pages (excluding references) using the IJCAI template
-                        describing novel work, with additional pages allowed in the appendix.</li>
-                    <li><strong>Hot off the press:</strong> describing previously published, peer-reviewed work that
-                        appeared on or after 1 January 2025. Authors are required to submit the PDF of their published
-                        work and an additional paragraph explaining the relevance of the work to the workshop.</li>
-                </ul>
-                <p>
+                
+                <h3 class="section-heading" style="margin-top: 0; margin-bottom: 5px; font-size: 24px;">Submission Guidelines</h3>
+                <h6 style="margin-top: 0; margin-bottom: 25px; font-weight: bold; font-size: 14px;">
+                    <a href="https://openreview.net/group?id=ijcai.org/IJCAI-ECAI/2026/Workshop/AutoAI-FM" target="_blank" style="text-decoration: none; color: #337ab7;">&rarr; OpenReview submission website</a>
+                </h6>
+                
+                <p>We invite two categories of submissions:</p>
+                <ol style="margin-bottom: 25px;">
+                    <li style="margin-bottom: 10px;"><strong>Full papers:</strong> Up to 7 pages (excluding references) using the IJCAI template describing novel work, with additional pages allowed in the appendix.</li>
+                    <li><strong>Hot-off-the-press:</strong> describing previously published, peer-reviewed work that appeared on or after 1 January 2025. Authors are required to submit the PDF of their published work and an additional paragraph explaining the relevance of the work to the workshop.</li>
+                </ol>
+                <p style="margin-bottom: 35px;">
                     LLM usage policy: submissions are allowed to use LLMs for assistance in writing. However, the
                     authors are responsible for all content, including checking for plagiarised content and correctness
                     of the submission. Hallucinated references and facts will lead to desk rejection of the submission.
                 </p>
 
-                <h3 class="section-heading">Themes and Scope</h3>
+                <h5 class="section-heading" style="font-size: 18px; font-weight: bold;">Themes and Scope</h5>
                 <p>
                     The workshop is open for submissions at the intersection of AutoAI and foundation models, including,
                     but not limited to the following topics:
                 </p>
-                <ul>
+                <ul style="margin-bottom: 15px;">
                     {% for topic in site.data.autoai_fm.themes.first.topics %}
                     <li>{{ topic }}</li>
                     {% endfor %}
                 </ul>
-                <p class="text-muted" style="margin-bottom: 30px;">
+                <p class="text-muted" style="margin-bottom: 35px;">
                     (Note: In the topics above, we use 'Foundation Models' to broadly refer to Large Language Models
                     (LLMs) as well as foundation models for other modalities.)
                 </p>
 
-                <h3 class="section-heading">Review Policy</h3>
+                <h5 class="section-heading" style="font-size: 18px; font-weight: bold;">Review Policy</h5>
                 <p>Full papers will go through the following review policy:</p>
-                <ul>
+                <ul style="margin-bottom: 15px;">
                     <li>All submissions will undergo review by at least three reviewers per paper.</li>
                     <li>Submissions will be evaluated based on technical soundness, readability and novelty.</li>
                     <li>Acceptance or rejection will be based on the reviewers' assessments.</li>
