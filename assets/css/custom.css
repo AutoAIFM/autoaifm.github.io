@@ -1,0 +1,114 @@
+/* AutoAI-FM Workshop - Clean Academic Styling (Inspiration: AutoML 2020) */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Smaller base font and clean font stack */
+html {
+  font-size: 16px; 
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Reduce width and margins to feel more compact like Google Sites */
+.wrapper {
+  max-width: 1100px !important;
+}
+
+#main {
+  padding-top: 1em; /* Smaller top margin */
+}
+
+/* Wider layout for better use of space */
+.page {
+  padding-right: 0 !important;
+  width: 100% !important;
+}
+
+/* Masthead styling (White background, black text) */
+.masthead {
+  border-bottom: 1px solid #ddd;
+  background-color: #fff !important;
+}
+
+.masthead__inner {
+  padding: 0.75em 0 !important; /* Tighter padding */
+}
+
+.masthead__menu-item a {
+  color: #333 !important;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.masthead__menu-item a:hover {
+  color: #000 !important;
+  text-decoration: underline;
+}
+
+/* Page Title styling - huge but light weight like AutoML site */
+.page__title {
+  font-weight: 300 !important;
+  font-size: 2.2rem !important; /* Slightly smaller for better balance */
+  color: #000;
+  margin-top: 0.25em !important;
+  margin-bottom: 0.5em !important;
+  border-bottom: none !important;
+}
+
+/* Subtitles/Headers */
+h2 {
+  font-size: 1.3rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.3em;
+  margin-top: 1.5em;
+  font-weight: 500;
+  color: #444;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* Fix density and font sizes for lists and paragraphs */
+.page__content p, 
+.page__content li {
+  font-size: 1rem !important; /* Force a clear readable size */
+  line-height: 1.6;
+  margin-bottom: 0.5em;
+}
+
+/* Academic lists */
+.page__content ul {
+  list-style-type: disc;
+  margin-left: 1.5em;
+}
+
+/* Align links style */
+.page__content a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+/* Remove RSS feed link from footer */
+.page__footer-follow {
+  display: none !important;
+}
+
+/* Remove breadcrumbs if they appear (too much clutter) */
+.breadcrumbs {
+  display: none;
+}
+
+/* Ensure images don't have too much padding */
+.page__hero--overlay {
+  margin-bottom: 1.5em !important;
+}
