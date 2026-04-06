@@ -4,14 +4,6 @@ layout: single
 sidebar: null
 ---
 
-[→ OpenReview submission website](https://openreview.net/group?id=ijcai.org/IJCAI-ECAI/2026/Workshop/AutoAI-FM){:target="_blank"}
-
-## Important Dates
-
-* **Submission deadline:** 4 May 2026 (AoE)
-* **Notification:** 11 June 2026 (AoE)
-* **Workshop dates:** 15, 16 or 17 August 2026 (TBD)
-
 We invite two categories of submissions:
 
 1. **Full papers:** Up to 7 pages (excluding references) using the IJCAI template describing novel work, with additional pages allowed in the appendix.
@@ -42,3 +34,9 @@ Hot-off-the-press papers will be evaluated by their relevance to the workshop an
 ## Submission Instructions
 
 Papers should use the [IJCAI authors kit](https://www.ijcai.org/authors_kit) and be submitted via the [→ OpenReview submission website](https://openreview.net/group?id=ijcai.org/IJCAI-ECAI/2026/Workshop/AutoAI-FM){:target="_blank"}.
+
+## Important Dates
+
+* **Submission deadline:** 4 May 2026 (AoE)
+* **Notification:** 11 June 2026 (AoE)
+* **Workshop dates:** 15, 16 or 17 August 2026 (TBD)
