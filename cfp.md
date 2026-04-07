@@ -29,7 +29,7 @@ The workshop is open for submissions at the intersection of AutoAI and foundatio
     * Submissions will be evaluated based on technical soundness, readability and novelty.
     * Acceptance or rejection will be based on the reviewers' assessments.
 
-Hot-off-the-press papers will be evaluated by their relevance to the workshop and the quality of the venue where they got published.
+* Hot-off-the-press papers will be evaluated by their relevance to the workshop and the quality of the venue where they got published.
 
 ## Submission Instructions
 
