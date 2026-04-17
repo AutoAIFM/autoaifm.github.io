@@ -2,15 +2,19 @@
   affiliation: RWTH Aachen University
   email: shavit@aim.rwth-aachen.de
   website: https://hadarshavit.github.io
+  image: "/hshavit.jpg"
 - name: Steven Adriaensen
   affiliation: University of Freiburg
   email: adriaens@cs.uni-freiburg.de
   website: https://ml.informatik.uni-freiburg.de/profile/adriaensen/
+  image: "/sadriaensen.jpg"
 - name: Elena Raponi
   affiliation: Leiden University
   email: e.raponi@liacs.leidenuniv.nl
   website: https://www.universiteitleiden.nl/en/staffmembers/elena-raponi
+  image: "/eraponi.jpeg"
 - name: Holger Hoos
   affiliation: RWTH Aachen University & Leiden University
   email: hh@aim.rwth-aachen.de
   website: https://hoos.ca
+  image: "/hhoos.jpeg"

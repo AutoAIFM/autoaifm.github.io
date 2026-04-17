@@ -31,5 +31,21 @@ Please see the [Call for Papers](/cfp/).
 - **{{ speaker.name }}** ({{ speaker.affiliation }})
 {% endfor %}
 
+## Organisers
+
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 30px; margin-top: 20px;">
+  {% for organizer in site.data.autoai_fm.organizers %}
+  <div style="text-align: center; width: 150px;">
+    {% if organizer.image %}
+    <img src="{{ organizer.image }}" alt="{{ organizer.name }}" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 10px;">
+    {% else %}
+    <div style="width: 150px; height: 150px; border-radius: 50%; background-color: #ddd; line-height: 150px; color: #888; margin: 0 auto 10px auto;">No Image</div>
+    {% endif %}
+    <p style="margin: 0; line-height: 1.2;"><strong>{{ organizer.name }}</strong></p>
+    <p style="margin: 5px 0 0 0; font-size: 0.85em; line-height: 1.2;">{{ organizer.affiliation }}</p>
+    <p style="margin: 5px 0 0 0; font-size: 0.8em;"><a href="{{ organizer.website }}" target="_blank">Website</a></p>
+  </div>
+  {% endfor %}
+</div>
 
 Contact: [autoaifm@aim.rwth-aachen.de](mailto:autoaifm@aim.rwth-aachen.de)
