@@ -37,6 +37,6 @@ Papers should use the [IJCAI authors kit](https://www.ijcai.org/authors_kit) and
 
 ## Important Dates
 
-* **Submission deadline:** 24 May 2026 (AoE)
+* **Submission deadline:** 11 May 2026 (AoE)
 * **Notification:** 11 June 2026 (AoE)
 * **Workshop dates:** 15, 16 or 17 August 2026 (TBD)
