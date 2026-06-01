@@ -19,7 +19,7 @@ This workshop aims to deepen the investigation of research topics at this inters
 
 **Submission deadline:** 25 May 2026 (AoE)  
 **Notification:** 11 June 2026 (AoE)  
-**Workshop dates:** 15, 16 or 17 August 2026 (TBD)  
+**Workshop dates:** 16 August 2026 
 **Location:** Bremen, Germany  
 **Collocated with:** [IJCAI-ECAI 2026](https://ijcai-ecai2026.org/)
 
