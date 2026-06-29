@@ -17,6 +17,7 @@ On the other hand, foundation models are not universal solvers; instead, they ex
 
 This workshop aims to deepen the investigation of research topics at this intersection by fostering discussion on approaches that integrate AutoAI methods with LLMs and foundation models.
 
+**NEW! Deadline for poster only presentations:** 12 July 2026 (AoE)
 **Submission deadline:** 25 May 2026 (AoE)  
 **Notification:** 11 June 2026 (AoE)  
 **Workshop dates:** 16 August 2026 
