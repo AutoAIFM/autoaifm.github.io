@@ -4,6 +4,11 @@ layout: single
 sidebar: null
 ---
 
+<div class="notice-box">
+  <p><strong>Poster only papers:</strong> For papers that got recently accepted and ongoing work we offer poster only presentations. To register, send us an email to <a href="mailto:autoaifm@aim.rwth-aachen.de">autoaifm@aim.rwth-aachen.de</a> with the title, authors list and abstract.</p>
+  <p><strong>Deadline:</strong> 12 July 2026 AoE</p>
+</div>
+
 We invite two categories of submissions:
 
 1. **Full papers:** Up to 7 pages (excluding references) using the IJCAI template describing novel work, with additional pages allowed in the appendix.
