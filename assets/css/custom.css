@@ -115,6 +115,38 @@ h3 {
   margin-bottom: 0;
 }
 
+/* Schedule table spacing */
+.page__content .schedule-table {
+  display: table;
+  margin: 1.5em auto 2em;
+  max-width: 100%;
+  width: auto;
+}
+
+.page__content .schedule-table th,
+.page__content .schedule-table td {
+  padding: 0.75em 1em;
+  vertical-align: top;
+  line-height: 1.5;
+}
+
+.page__content .schedule-table th:first-child,
+.page__content .schedule-table td:first-child {
+  min-width: 7em;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 600px) {
+  .page__content .schedule-table {
+    width: 100%;
+  }
+
+  .page__content .schedule-table th,
+  .page__content .schedule-table td {
+    padding: 0.6em 0.7em;
+  }
+}
+
 /* Remove RSS feed link from footer */
 .page__footer-follow {
   display: none !important;
