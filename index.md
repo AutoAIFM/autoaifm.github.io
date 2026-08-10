@@ -7,6 +7,11 @@ header:
 sidebar: null
 ---
 
+<div class="notice-box">
+  <p><strong>The workshop will take place on Sunday, 16 August 2026, in room GW2-B3850.</strong></p>
+  <p><a href="/schedule/">View the schedule →</a></p>
+</div>
+
 Automated artificial intelligence (AutoAI) comprises meta-algorithmic methods that improve performance by, for example, automatically selecting, configuring, designing or explaining AI algorithms for a given task or problem distribution. Its central motivation is the limited generality of algorithms: no single method performs optimally across all problems, and in practice algorithmic performance varies substantially across tasks and instances. Over the past two decades, AutoAI has delivered state-of-the-art results across diverse domains, including NP-complete problem solving, black-box optimisation, and machine learning.
 
 In recent years, large language models (LLMs) and other foundation models have emerged as powerful general-purpose tools, enabling strong performance on a wide range of tasks and reviving the notion of a single, universal solver. These models are increasingly being applied to machine learning, optimisation, planning, constraint solving, and other traditional AutoAI application areas.

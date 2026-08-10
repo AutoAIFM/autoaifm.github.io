@@ -5,10 +5,18 @@ sidebar: null
 permalink: /pc/
 ---
 
-We are actively calling for researchers to join our Program Committee! If you are interested in reviewing papers and contributing to the workshop, please reach out to us at [autoaifm@aim.rwth-aachen.de](mailto:autoaifm@aim.rwth-aachen.de).
+We thank the Program Committee members for making the workshop possible.
 
-## Current Program Committee
-
-TBA
-
+- Qian Xie
+- Dippu Kumar Singh
+- Lukas Fehring
+- Tinghan Ye
+- Henning Duwe
+- Mohan Premchand Bhambhani
+- Siming Zhao
+- Katharina Eggensperger
+- Nozomu Yoshinari
+- Julia Wąsala
+- Tom Zehle
+- Sanchita Porwal
 
