@@ -32,3 +32,21 @@ Kseniia Kuvshinova, Steven Adriaensen, Sebastian Rojas Gonzalez, Raul Astudillo
 ### [Towards Benchmarking Agentic Data Scientists](https://openreview.net/forum?id=UoYzHOKZaL)
 
 Kartik Nagaraj Nayak, Nitishkumar Solpure, Niladri Mitra, Tom Zehle, Alexander Pfefferle, Omar Swelam, Frank Hutter
+
+## Poster-Only Papers
+
+### Amortized Multi-Objective Optimization Across Tasks with Generative Solution Modeling
+
+Tingyang Wei, Jiao Liu, Abhishek Gupta, Chin Chun Ooi, Puay Siew Tan, Yew-Soon Ong
+
+### Learning to Solve and Optimize by Evolving Code
+
+Veronika Semmelrock, Benedetta Strizzolo, Francesco Zuccato, Gerhard Friedrich, Patrick Rodler, Konstantin Schekotihin
+
+### Alpha Tester: Automated Discovery of Trading Strategies via LLM Multi-Agent AutoAI under Reliable, Bias-Free Evaluation
+
+**Presenter:** Hyungjin Ko (Sungkyunkwan University, South Korea)
+
+### LISTEN to Your Preferences: An LLM Framework for Multi-Objective Selection
+
+Adam S. Jovine, Tinghan Ye, Francis Bahk, Jingjing Wang, Matthew Ford, David B. Shmoys, Peter I. Frazier
