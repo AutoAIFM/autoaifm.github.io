@@ -45,7 +45,7 @@ Veronika Semmelrock, Benedetta Strizzolo, Francesco Zuccato, Gerhard Friedrich, 
 
 ### Alpha Tester: Automated Discovery of Trading Strategies via LLM Multi-Agent AutoAI under Reliable, Bias-Free Evaluation
 
-**Presenter:** Hyungjin Ko (Sungkyunkwan University, South Korea)
+Hyungjin Ko
 
 ### LISTEN to Your Preferences: An LLM Framework for Multi-Objective Selection
 
