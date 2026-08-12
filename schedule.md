@@ -15,7 +15,7 @@ permalink: /schedule/
 | 12:15–12:30 | Coordination for afternoon |
 | 12:30–14:00 | Lunch break |
 | 14:00–14:45 | Keynote: Carola Doerr<br>**Title:  Evaluating AI-supported algorithms in optimization and learning contexts, do we still have it all wrong?** |
-| 14:45–15:30 | Panel discussion — Tome Eftimov, Carola Doerr, Holger Hoos, Matthew Ford, Lars Kotthoff |
+| 14:45–15:30 | Panel discussion — Tome Eftimov, Carola Doerr, Matthew Ford, Lars Kotthoff |
 | 15:30–16:00 | Coffee break |
 | 16:00–17:15 | Poster session |
 | 17:15–17:30 | Closing remarks |
